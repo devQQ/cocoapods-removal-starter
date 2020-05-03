@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Cocoapods_Removal_Starter_Cocoapods_Removal_StarterUITests : NSObject
+@end
+@implementation PodsDummy_Pods_Cocoapods_Removal_Starter_Cocoapods_Removal_StarterUITests
+@end
